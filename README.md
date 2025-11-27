@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_application_1
 
 A new Flutter project.
@@ -157,3 +158,6 @@ If you want, I can:
 	or add a toggle so the app can switch between Firestore and PHP REST.
 - Add authentication for the PHP API (JWT or session-based) to secure endpoints.
 
+=======
+# CAREVAX
+>>>>>>> 2ede70d363bb0743d6effae62139e9f429c557bf
